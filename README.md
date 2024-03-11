@@ -2,7 +2,7 @@
 
 Este projeto é um aplicativo de tradução alimentado por IA que utiliza React para o front-end e FastAPI para o back-end, integrando-se com a API da OpenAI para realizar traduções.
 
-![screenshot](front-end/src/images/screenshot_app.png)
+![screenshot](front-end/src/images/screenshot_app.PNG)
 
 ## Início Rápido
 
