@@ -1,0 +1,33 @@
+# Dependency directories
+.DS_Store
+.idea
+backlog/
+setup-env.sh
+/.pnp
+.pnp.js
+ai-powered-app/front-end/node_modules
+./front-end/*
+node_modules/
+venv/
+env/
+.env
+
+# Build outputs
+dist/
+build/
+__pycache__/
+*.pyc
+
+# Local development
+*.log
+*.sqlite3
+.DS_Store
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# FastAPI docs directory
+docs/
